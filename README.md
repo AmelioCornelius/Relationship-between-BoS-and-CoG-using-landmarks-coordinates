@@ -3,13 +3,13 @@ O Centro de Gravidade (CoG) corresponde a projeção do Centro de Massa (CoM) em
 
 Utilizando os marcadores obtidos com o BlazePose pode-se obter os segmentos corporais utilizando o método da segmentação. Com o auxílio de tabelas com dados antropométricos obtém-se a posição do CoM. 
 <p align="center">
-  <img src="[https://github.com/AmelioCornelius/Relationship-between-BoS-and-CoG-using-landmarks-coordinates/blob/main/Imagens/marcadores-frontal.png]" alt="Marcadores"/>
+  <img src="https://github.com/AmelioCornelius/Relationship-between-BoS-and-CoG-using-landmarks-coordinates/blob/main/Imagens/marcadores-frontal.png" alt="Marcadores"/>
 </p>
 
 Utilizando as coordenadas dos marcadores nos pés e aproximmando a base de suporte para um paralelogramo pode-se obter as medidas área, largura e comprimento da BoS.
 
 <p align="center">
-  <img src="[https://github.com/AmelioCornelius/Relationship-between-BoS-and-CoG-using-landmarks-coordinates/blob/main/Imagens/Base_de_Suporte.png]" alt="Base de Suporte"/>
+  <img src="https://github.com/AmelioCornelius/Relationship-between-BoS-and-CoG-using-landmarks-coordinates/blob/main/Imagens/Base_de_Suporte.png" alt="Base de Suporte"/>
 </p>
 
 A trajetória do CoG em um ciclo de marcha apresenta um comportamento senoidal. A marcha é composta por uma série de movimentos que se repetem, formando um movimento periódico, composto por duas fases principais, apoio e balanço, divididas em sub fases. A fase de apoio requer grande estabilidade, por ser o momento em que o peso corporal é transferido entre os membros. Durante o carregamento do peso, o suporte deambos os membros é requerido. É dividida em 5 sub-fases:
@@ -24,7 +24,7 @@ A fase de balanço descreve o comportamento da perna de arrasto durante os momen
 3. Desaceleração: Corresponde ao momento final do ciclo da marcha. O tornozelo volta para a posição neutra.
 
 <p align="center">
-  <img src="[https://github.com/AmelioCornelius/Relationship-between-BoS-and-CoG-using-landmarks-coordinates/blob/main/Imagens/marcha.png]" alt="Um ciclo de marcha"/>
+  <img src="https://github.com/AmelioCornelius/Relationship-between-BoS-and-CoG-using-landmarks-coordinates/blob/main/Imagens/marcha.png" alt="Um ciclo de marcha"/>
 </p>
 
 # Dependências/Bibliotecas 
